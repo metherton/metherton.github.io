@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47fd2e77-d90d-4d0e-8a8a-9a001acc3971" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/default.html" afterPath="$PROJECT_DIR$/_includes/default.html" />
     </list>
     <ignored path="metherton.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -690,12 +689,12 @@
       <created>1444246970527</created>
       <option name="number" value="Default" />
       <updated>1444246970527</updated>
-      <workItem from="1444246979700" duration="4780000" />
+      <workItem from="1444246979700" duration="4934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4780000" />
+    <option name="totallyTimeSpent" value="4934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
