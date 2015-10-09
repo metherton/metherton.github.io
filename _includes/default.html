@@ -34,7 +34,7 @@
 </head>
 
 <body>
-	<nav class="navbar navbar-default visible-xs" role="navigation">
+	<nav class="navbar navbar-default visible-xs visible-sm" role="navigation">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -75,7 +75,7 @@
 	</nav>
 
 	<!-- nav-menu-dropdown -->
-	<div class="btn-group hidden-xs" id="nav-menu">
+	<div class="btn-group hidden-xs hidden-sm" id="nav-menu">
 		<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
 			<i class="fa fa-bars"></i>
 		</button>
@@ -88,11 +88,11 @@
 		</ul>
 	</div>
 
-	<div class="col-sm-3 sidebar hidden-xs hidden-sm not-mobile">
+	<div class="col-sm-4 sidebar hidden-xs hidden-sm not-mobile" style="min-height: 2157px">
 		{% include sidebar.html %}
 	</div>
 
-	<div class="col-sm-9 col-sm-offset-3">
+	<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 		{{ content }}
 
 		<footer>
