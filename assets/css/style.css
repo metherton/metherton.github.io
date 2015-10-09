@@ -38,7 +38,7 @@ a.nav-link:hover { color: #777 }
 
 #bio {
 	font-family: "Courier New", Courier, monospace;
-	font-size: 18px;
+	font-size: 11px;
 	margin: 0 auto;
 	margin-bottom: 10px;
 }
@@ -82,7 +82,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #333;
+	color: #e74c3c;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -117,14 +117,14 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #333;
+	color: #f2756a;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #333;
+	color: #f2756a;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
@@ -181,9 +181,5 @@ footer {
 
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
-}
-
-h3.title {
-	font-size: 18px;
 }
 
