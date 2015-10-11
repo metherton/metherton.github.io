@@ -3,7 +3,6 @@ layout: post
 title: Angular Spring Security Example
 tags: [angular spring security]
 categories: [general angular demo]
-description: Angular spring security example
 ---
  **[Here](https://spring.io/guides/tutorials/spring-security-and-angular-js/)** is a great article describing how to add authentication to your Angular App.
 In this example they are serving the resources from a separate server using spring boot.
