@@ -9,4 +9,3 @@ In this example they are serving the resources from a separate server using spri
 The server code is programmed in Groovy. For those (like myself) not familiar with Groovy I decided to reimplement the server in Java.
 You can see this example running at **[Angular Authentication example](http://141.138.139.81:8080)** and the source code here **[Angular Client](https://github.com/metherton/angular-spring-security-client)** and **[Java Server](https://github.com/metherton/angular-spring-security-server)**.
 Login credentials are user name: **user** and password **password** 
-Good luck
