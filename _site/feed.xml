@@ -7,6 +7,17 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ionic Framework</title>
+				<description>&lt;p&gt;Ionic framework is an extension of the Angular framework which enables angular developers to publish their work to mobile devices.
+As part of the Coursera full stack course I have been studying we are migrating the application we have been developing onto ionic.
+The result can be seen &lt;strong&gt;&lt;a href=&quot;http://www.martinetherton.com:8100/ionic-lab&quot;&gt;here&lt;/a&gt;&lt;/strong&gt; and the source code for the site &lt;strong&gt;&lt;a href=&quot;https://github.com/metherton/ionic-website&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sat, 06 Feb 2016 00:00:00 +0100</pubDate>
+				<link>/general%20bootstrap/2016/02/06/ionic.html</link>
+				<guid isPermaLink="true">/general%20bootstrap/2016/02/06/ionic.html</guid>
+			</item>
+		
+			<item>
 				<title>Coursera Fullstack Course</title>
 				<description>&lt;p&gt;I am currently studying the &lt;strong&gt;&lt;a href=&quot;https://www.coursera.org/specializations/full-stack&quot;&gt;Full Stack Web Development Specialization course&lt;/a&gt;&lt;/strong&gt; offered by the Coursera online education organization.
 The second part of the course covers the Bootstrap framework, which we are using to build an example web site. Each week we are adding new features.
