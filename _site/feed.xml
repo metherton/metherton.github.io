@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>martinetherton.com</title>
+		<description>Stylish Jekyll Theme</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Coursera Fullstack Course</title>
+				<description>&lt;p&gt;I am currently studying the &lt;strong&gt;&lt;a href=&quot;https://www.coursera.org/specializations/full-stack&quot;&gt;Full Stack Web Development Specialization course&lt;/a&gt;&lt;/strong&gt; offered by the Coursera online education organization.
+The second part of the course covers the Bootstrap framework, which we are using to build an example web site. Each week we are adding new features.
+The result can be seen &lt;strong&gt;&lt;a href=&quot;http://www.martinetherton.com/conFusion/index.html&quot;&gt;here&lt;/a&gt;&lt;/strong&gt; and the source code for the site &lt;strong&gt;&lt;a href=&quot;https://github.com/metherton/webframeworkcourse&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Fri, 30 Oct 2015 00:00:00 +0100</pubDate>
+				<link>/general%20bootstrap/2015/10/30/coursera-bootstrap.html</link>
+				<guid isPermaLink="true">/general%20bootstrap/2015/10/30/coursera-bootstrap.html</guid>
+			</item>
+		
+			<item>
+				<title>Angular Spring Security Example</title>
+				<description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://spring.io/guides/tutorials/spring-security-and-angular-js/&quot;&gt;Here&lt;/a&gt;&lt;/strong&gt; is a great article describing how to add authentication to your Angular App.
+In this example they are serving the resources from a separate server using spring boot.
+The server code is programmed in Groovy. For those (like myself) not familiar with Groovy I decided to reimplement the server in Java.
+You can see this example running at &lt;strong&gt;&lt;a href=&quot;http://141.138.139.81:9001&quot;&gt;Angular Authentication example&lt;/a&gt;&lt;/strong&gt; and the source code here &lt;strong&gt;&lt;a href=&quot;https://github.com/metherton/angular-spring-security-client&quot;&gt;Angular Client&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;https://github.com/metherton/angular-spring-security-server&quot;&gt;Java Server&lt;/a&gt;&lt;/strong&gt;.
+Login credentials are user name: &lt;strong&gt;user&lt;/strong&gt; and password &lt;strong&gt;password&lt;/strong&gt; &lt;/p&gt;
+</description>
+				<pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
+				<link>/general%20angular%20demo/2015/10/10/angular-spring-security.html</link>
+				<guid isPermaLink="true">/general%20angular%20demo/2015/10/10/angular-spring-security.html</guid>
+			</item>
+		
+	</channel>
+</rss>
