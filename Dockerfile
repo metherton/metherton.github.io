@@ -1,6 +1,10 @@
 FROM jekyll/jekyll
 
-WORKDIR /metherton.github.io
+mkdir -p /homepage
+
+WORKDIR /homepage
+
+COPY . /homepage
 
 EXPOSE 9000
 CMD ["jekyll", "serve", "--port", "9000"]
