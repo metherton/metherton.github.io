@@ -7,6 +7,15 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Polymer</title>
+				<description>&lt;p&gt;Polymer is a new technology built upon Web Components which makes building cool apps much simpler&lt;/p&gt;
+</description>
+				<pubDate>Tue, 05 Jul 2016 00:00:00 +0200</pubDate>
+				<link>/general%20bootstrap/2016/07/05/polymer.html</link>
+				<guid isPermaLink="true">/general%20bootstrap/2016/07/05/polymer.html</guid>
+			</item>
+		
+			<item>
 				<title>Ionic Framework</title>
 				<description>&lt;p&gt;Ionic framework is an extension of the Angular framework which enables angular developers to publish their work to mobile devices.
 As part of the Coursera full stack course I have been studying we are migrating the application we have been developing onto ionic.
@@ -34,7 +43,7 @@ The result can be seen &lt;strong&gt;&lt;a href=&quot;http://www.martinetherton.
 In this example they are serving the resources from a separate server using spring boot.
 The server code is programmed in Groovy. For those (like myself) not familiar with Groovy I decided to reimplement the server in Java.
 You can see this example running at &lt;strong&gt;&lt;a href=&quot;http://141.138.139.81:9001&quot;&gt;Angular Authentication example&lt;/a&gt;&lt;/strong&gt; and the source code here &lt;strong&gt;&lt;a href=&quot;https://github.com/metherton/angular-spring-security-client&quot;&gt;Angular Client&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;https://github.com/metherton/angular-spring-security-server&quot;&gt;Java Server&lt;/a&gt;&lt;/strong&gt;.
-Login credentials are user name: &lt;strong&gt;user&lt;/strong&gt; and password &lt;strong&gt;password&lt;/strong&gt; &lt;/p&gt;
+Login credentials are user name: &lt;strong&gt;user&lt;/strong&gt; and password &lt;strong&gt;password&lt;/strong&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
 				<link>/general%20angular%20demo/2015/10/10/angular-spring-security.html</link>

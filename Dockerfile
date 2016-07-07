@@ -1,10 +1,4 @@
-FROM jekyll/jekyll
-
-RUN mkdir -p /homepage
-
-WORKDIR /homepage
-
-COPY . /homepage
-
-EXPOSE 9000
-CMD ["jekyll", "serve", "--port", "9000"]
+FROM debian
+RUN apt-get update
+EXPOSE 4000
+CMD ["jekyll", "serve"]
