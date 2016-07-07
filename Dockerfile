@@ -1,6 +1,6 @@
 FROM jekyll/jekyll
 
-mkdir -p /homepage
+RUN mkdir -p /homepage
 
 WORKDIR /homepage
 
