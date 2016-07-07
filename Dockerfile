@@ -1,4 +1,4 @@
 FROM jekyll/jekyll
 
-EXPOSE 9003
-ENTRYPOINT ["jekyll", "serve", "--port", "9003", "--host", "127.0.0.1"]
+EXPOSE 9000
+CMD ["jekyll", "serve", "--port", "9000"]
