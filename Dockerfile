@@ -1,8 +1,8 @@
 FROM debian
-RUN apt-get update
-RUN apt-get install ruby-dev
-RUN apt-get install rubygems
-RUN apt-get build-essential
-RUN gem install jekyll
+RUN apt-get update \
+    apt-get install -y ruby-full \
+    apt-get install rubygems \
+    apt-get -y build-essential \
+    gem install jekyll
 EXPOSE 4000
-ENTRYPOINT  ["jekyll", "serve"]
+CMD ["jekyll", "serve"]
