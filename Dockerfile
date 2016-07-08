@@ -5,4 +5,4 @@ RUN apt-get install rubygems
 RUN apt-get build-essential
 RUN gem install jekyll
 EXPOSE 4000
-CMD ["jekyll", "serve"]
+ENTRYPOINT  ["jekyll", "serve"]
