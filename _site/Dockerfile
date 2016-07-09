@@ -11,5 +11,6 @@ RUN gem install jekyll
 
 COPY . /usr/src/app
 
-EXPOSE 9000
-CMD ["jekyll", "serve", "--port", "9000"]
+EXPOSE 4000
+CMD ["jekyll", "serve"]
+
